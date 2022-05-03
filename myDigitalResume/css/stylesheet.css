@@ -1,0 +1,52 @@
+                body {
+                    font-family: sans-serif;
+                    font-size: 100%;
+                    background-color: #FCF7F8;
+                }
+                
+                header {
+                    text-align: center;
+                }
+                
+                #heading {
+                    font-family: sans-serif;
+                    font-size: 110%;
+                    background-color: gray;
+                }
+                
+                footer {
+                    background-color: #343330;
+                    text-align: center;
+                }
+                
+                #sidebar {
+                    width: 20%;
+                    background-color: teal;
+                    padding: 1rem;
+                    color: black;
+                }
+                
+                .navList {
+                    list-style-type: none;
+                    padding: 0%;
+                }
+                
+                .Main {
+                    background-color: beige;
+                    display: flex;
+                    flex-direction: row;
+                    overflow: unset;
+                }
+                
+                #Profilephoto {
+                    width: 15%;
+                    height: 15%;
+                    border-radius: 50%;
+                    border: 3px solid orange;
+                }
+                
+                .icons {
+                    width: 3rem;
+                    height: auto;
+                    margin: 2rem;
+                }
